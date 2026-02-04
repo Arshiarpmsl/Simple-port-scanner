@@ -42,7 +42,4 @@ Install dependencies:
 pip install -r requirements.txt
 
 
-## 📸 Example Screenshot
-
-![Scanner Output](screenshots/local.png)
-
+Screenshots are in in screenshots directory
