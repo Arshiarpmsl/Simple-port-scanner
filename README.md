@@ -35,6 +35,7 @@ Python libraries:
 - `python-nmap`
 - `requests`
 - `beautifulsoup4`
+Screenshots are in screenshots directory
 
 Install dependencies:
 
@@ -42,4 +43,3 @@ Install dependencies:
 pip install -r requirements.txt
 
 
-Screenshots are in screenshots directory
