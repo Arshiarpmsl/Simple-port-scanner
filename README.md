@@ -42,4 +42,4 @@ Install dependencies:
 pip install -r requirements.txt
 
 
-Screenshots are in in screenshots directory
+Screenshots are in screenshots directory
